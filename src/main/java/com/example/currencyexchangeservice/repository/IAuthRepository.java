@@ -8,4 +8,6 @@ import org.springframework.stereotype.Repository;
 public interface IAuthRepository  extends CrudRepository<AccessModel, Long> {
 
     AccessModel findByUserName(String username);
+//prueba commit 1
+
 }

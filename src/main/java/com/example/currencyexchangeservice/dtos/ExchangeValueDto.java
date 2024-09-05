@@ -20,4 +20,6 @@ public class ExchangeValueDto {
     private BigDecimal quantity;
 
     private BigDecimal totalCalculateAmount;
+
+    //commit 3
 }
